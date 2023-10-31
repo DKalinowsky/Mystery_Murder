@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dkali\\source\\repos\\GraDetektywistyczna\\GraDetektywistyczna.csproj": {}
+    "C:\\Users\\dkali\\Documents\\GitHub\\Mystery_Murder\\GraDetektywistyczna\\GraDetektywistyczna.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dkali\\source\\repos\\GraDetektywistyczna\\GraDetektywistyczna.csproj": {
+    "C:\\Users\\dkali\\Documents\\GitHub\\Mystery_Murder\\GraDetektywistyczna\\GraDetektywistyczna.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dkali\\source\\repos\\GraDetektywistyczna\\GraDetektywistyczna.csproj",
+        "projectUniqueName": "C:\\Users\\dkali\\Documents\\GitHub\\Mystery_Murder\\GraDetektywistyczna\\GraDetektywistyczna.csproj",
         "projectName": "GraDetektywistyczna",
-        "projectPath": "C:\\Users\\dkali\\source\\repos\\GraDetektywistyczna\\GraDetektywistyczna.csproj",
+        "projectPath": "C:\\Users\\dkali\\Documents\\GitHub\\Mystery_Murder\\GraDetektywistyczna\\GraDetektywistyczna.csproj",
         "packagesPath": "C:\\Users\\dkali\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dkali\\source\\repos\\GraDetektywistyczna\\obj\\",
+        "outputPath": "C:\\Users\\dkali\\Documents\\GitHub\\Mystery_Murder\\GraDetektywistyczna\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\VisualStudio\\Shared\\NuGetPackages"
