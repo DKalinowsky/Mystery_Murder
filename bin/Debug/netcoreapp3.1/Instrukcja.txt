@@ -1,0 +1,5 @@
+Instrukcja:
+
+W tej grze możesz dokonywać różnych wyborów za pomocą strzałek, góra, dół.
+Zaakceptować swój wybór możesz za pomocą klawisza Enter.
+Za pomocą klawisza Enter, możesz również pomijać animacje tekstu.

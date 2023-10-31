@@ -1,0 +1,10 @@
+Imie: Merry
+Nazwisko: O'Brian
+Płeć: Kobieta
+Wiek: 21
+Wzrost: 158 cm
+Zawód: Projektantka
+Powód zatrzymania: Podejrzenie dokonania zabójstwa
+Akt oskarżenia: Zatrzymana, Merry O'Brian zabiła Jamesa Stone'a
+Osoba wnosząca o okarżenie: Detektyw Nick
+Oskarżenie na podstawie: art. 207 § 1 k.p.k.

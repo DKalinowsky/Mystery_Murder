@@ -1,0 +1,13 @@
+C:\Users\dkali\source\repos\GraDetektywistyczna\bin\Debug\netcoreapp3.1\GraDetektywistyczna.exe
+C:\Users\dkali\source\repos\GraDetektywistyczna\bin\Debug\netcoreapp3.1\GraDetektywistyczna.deps.json
+C:\Users\dkali\source\repos\GraDetektywistyczna\bin\Debug\netcoreapp3.1\GraDetektywistyczna.runtimeconfig.json
+C:\Users\dkali\source\repos\GraDetektywistyczna\bin\Debug\netcoreapp3.1\GraDetektywistyczna.runtimeconfig.dev.json
+C:\Users\dkali\source\repos\GraDetektywistyczna\bin\Debug\netcoreapp3.1\GraDetektywistyczna.dll
+C:\Users\dkali\source\repos\GraDetektywistyczna\bin\Debug\netcoreapp3.1\GraDetektywistyczna.pdb
+C:\Users\dkali\source\repos\GraDetektywistyczna\obj\Debug\netcoreapp3.1\GraDetektywistyczna.csprojAssemblyReference.cache
+C:\Users\dkali\source\repos\GraDetektywistyczna\obj\Debug\netcoreapp3.1\GraDetektywistyczna.AssemblyInfoInputs.cache
+C:\Users\dkali\source\repos\GraDetektywistyczna\obj\Debug\netcoreapp3.1\GraDetektywistyczna.AssemblyInfo.cs
+C:\Users\dkali\source\repos\GraDetektywistyczna\obj\Debug\netcoreapp3.1\GraDetektywistyczna.csproj.CoreCompileInputs.cache
+C:\Users\dkali\source\repos\GraDetektywistyczna\obj\Debug\netcoreapp3.1\GraDetektywistyczna.dll
+C:\Users\dkali\source\repos\GraDetektywistyczna\obj\Debug\netcoreapp3.1\GraDetektywistyczna.pdb
+C:\Users\dkali\source\repos\GraDetektywistyczna\obj\Debug\netcoreapp3.1\GraDetektywistyczna.genruntimeconfig.cache

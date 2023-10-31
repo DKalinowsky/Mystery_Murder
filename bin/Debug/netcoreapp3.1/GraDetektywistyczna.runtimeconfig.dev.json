@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\dkali\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\dkali\\.nuget\\packages",
+      "D:\\VisualStudio\\Shared\\NuGetPackages"
+    ]
+  }
+}

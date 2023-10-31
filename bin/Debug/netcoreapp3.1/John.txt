@@ -1,0 +1,10 @@
+Imie: John
+Nazwisko: Lawrence
+Płeć: Mężczyzna
+Wiek: 
+Wzrost: 183 cm
+Zawód: Ochroniarz
+Powód zatrzymania: Podejrzenie dokonania zabójstwa
+Akt oskarżenia: Zatrzymany, John Lawrence zabił Jamesa Stone'a
+Osoba wnosząca o okarżenie: Detektyw Nick
+Oskarżenie na podstawie: art. 207 § 1 k.p.k.

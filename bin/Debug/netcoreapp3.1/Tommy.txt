@@ -1,0 +1,10 @@
+Imie": "Imie: Tommy
+Nazwisko: VanMag
+Płeć: Mężczyzna
+Wiek: 
+Wzrost: 173 cm
+Zawód: Właściciel sklepu
+Powód zatrzymania: Podejrzenie dokonania zabójstwa
+Akt oskarżenia: Zatrzymany, Tommy VanMag zabił Jamesa Stone'a
+Osoba wnosząca o okarżenie: Detektyw Nick
+Oskarżenie na podstawie: art. 207 § 1 k.p.k.

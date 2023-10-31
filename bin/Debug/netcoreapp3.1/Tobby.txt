@@ -1,0 +1,10 @@
+Imie: Tobby
+Nazwisko: Ross
+Płeć: Mężczyzna
+Wiek: 29
+Wzrost: 189 cm
+Zawód: Menager ds. marketingu
+Powód zatrzymania: Podejrzenie dokonania zabójstwa
+Akt oskarżenia: Zatrzymany, Tobby Ross zabił Jamesa Stone'a
+Osoba wnosząca o okarżenie: Detektyw Nick
+Oskarżenie na podstawie: art. 207 § 1 k.p.k.

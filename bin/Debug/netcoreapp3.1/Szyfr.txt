@@ -1,0 +1,32 @@
+login: admin
+password: ************
+
+Decrypting message...
+
+root:00401280 ; __stdcall WinMain(x,x,x,x)
+root:00401280 _WinMain@16  proc near   ; CODE XREF: start + C9p
+"root:00401280"
+root:00401280 hInstance = dword ptr  4
+root:00401280"
+root:00401280  mov eax, [esp + hInstance]
+root: 00401284  push    0; dwInitParam
+root:00401286  push offset DialogFunc; lpDialogFunc
+root:0040128B push    0; hWndParent
+root:0040128D  push    65h; lpTemplateName
+root:0040128F  push eax; hInstance
+root:00401290  mov dword_405554, eax
+root: 00401295  call ds:DialogBoxParamA; Create a modal dialog box from a
+root:00401295; dialog box template resource
+root: 0040129B mov eax, hHandle
+root:004012A0 push    INFINITE; dwMilliseconds
+root:004012A2 push    eax; hHandle
+root:004012A3 call    ds: WaitForSingleObject
+root:004012A9 retn    10h
+root:004012A9 _WinMain@16  endp
+root:004010BE	mov	edi, lpWskaznikKodu
+root:004010D4	mov	bl, [edi+eax]
+root:00401101	jmp	short loc_401104
+root:00401104 loc_401104
+root:00401120 VersionInformation= _OSVERSIONINFOA ptr -94h
+root:00401178	mov	ecx, [esp+94h+VersionInformation.dwPlatformId]
+root:00401184	mov	lpInterfejs.bIsWindowsNT, eax
